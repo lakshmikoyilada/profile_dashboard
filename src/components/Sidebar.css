@@ -1,0 +1,56 @@
+.sidebar {
+    width: 20%;
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+  
+  .profile-section {
+    text-align: center;
+  }
+  
+  .profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .profile-completion {
+    margin-top: 20px;
+  }
+  
+  .progress-bar {
+    background-color: #ddd;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .progress {
+    background-color: #4caf50;
+    height: 10px;
+    border-radius: 5px;
+  }
+  
+  .options-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .options-list li {
+    margin-bottom: 10px;
+  }
+  .main-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+  }
+  .block {
+    background-color: #f1f1f1;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }

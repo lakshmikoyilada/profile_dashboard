@@ -1,0 +1,11 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dashboard-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  

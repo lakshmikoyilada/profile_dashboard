@@ -1,0 +1,19 @@
+.right-section {
+    width: 20%;
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .right-section h2 {
+    margin-bottom: 20px;
+  }
+  
+  .right-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .right-section li {
+    margin-bottom: 10px;
+  }
+  
